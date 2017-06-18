@@ -30,7 +30,7 @@ func allCoordinates(maxRows rows: Int, maxCols cols: Int) -> [[Int]] {
 
 print( allCoordinates(maxRows: 3, maxCols: 3))
 
-//print(isLeap(year: 2016))
+print(isLeap(year: 2016))
 
 //print( julianDate(year: 2016, month: 2, day: 29))
 //print( julianDate(year: 1901, month: 1, day: 1))
